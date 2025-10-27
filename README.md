@@ -2,11 +2,11 @@
 
 # Oii, developers! Kariny aqui 👋
 
-**Desenvolvedora · Python (Django) · React · Web**
+**Desenvolvedora · Python (Django) ·JavaScript · React**
 
-<a href="mailto:karinyalpiano@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-work.karinyalpiano%40gmail.com-EA4335?logo=gmail&logoColor=white">
-</a>
+  <a href="mailto:work.karinyalpiano@gmail.com" title="Email">
+    <img alt="Email" width="28" src="https://cdn.simpleicons.org/gmail/EA4335" />
+  </a>
 <a href="https://www.linkedin.com/in/kariny-alpiano-ab0b18146/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kariny%20Alpiano-0A66C2?logo=linkedin&logoColor=white">
 </a>
