@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0,12 * * *"   
+    - cron: "0 0,12 * * *"  
   workflow_dispatch:
 
 permissions:
@@ -14,17 +14,16 @@ concurrency:
 
 jobs:
   build:
-    name: Build & Publish snake files
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake (SVG + dark + GIF)
+      - name: Generate snake (SVG claro/escuro + GIF)
         uses: Platane/snk@v3
         with:
           github_user_name: karinyalpiano
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-            dist/snake-ocean.gif?color_snake=#22c55e&color_dots=#C0E6FF,#9FD1FF,#7FB6FF,#5D9BFF,#3F84F4
+            dist/snake.gif?color_snake=#22c55e&color_dots=#CAE8FF,#A6D3FF,#84BBFF,#5E9DFF,#3F84F4
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3
