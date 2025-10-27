@@ -3,9 +3,9 @@
 
 # Oii, developers! Kariny aqui 👋
 
-**Desenvolvedora em formação · Python ·Django · JavaScript · React**
+**Desenvolvedora · Python (Django) · React · Web**
 
-<a href="mailto:work.karinyalpiano@gmail.com">
+<a href="mailto:karinyalpiano@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-work.karinyalpiano%40gmail.com-EA4335?logo=gmail&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/kariny-alpiano-ab0b18146/">
@@ -20,23 +20,25 @@
 
 ## Sobre mim
 - 🔭 **Agora:** estudando e construindo mini-projetos para praticar.
-- 🌱 **Aprendendo:** Python, C++ e JavaScript.
+- 🌱 **Domínio:** Python e JavaScript.
 - 💡 **Curiosidades:** gosto de automação e web responsiva.
 - ☕ **Café lover:** +10 de produtividade garantidos.
 
 ## Tecnologias
 <p>
   <img alt="Python" title="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="C++" title="C++" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img alt="Django" title="Django" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+  <img alt="React" title="React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img alt="JavaScript" title="JavaScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="HTML5" title="HTML5" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="CSS3" title="CSS3" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </p>
 
-## Projetos em destaque
-- 🧩 **Desafios de Lógica** — exercícios e soluções comentadas.
-- 🕸️ **Mini projetos Web** — HTML/CSS/JS com responsividade.
-- 🐍 **Scripts em Python** — automações e notebooks simples.
+## Sobre mim
+- 🚀 Entrego apps web completos, do backend ao frontend.
+- 🧱 Backend: Django + DRF (autenticação, CRUD, permissões, documentação).
+- ⚛️ Frontend: React (SPA, hooks, roteamento, consumo de API).
+- 🐍 Automação em Python: scripts, ETL leve e integrações.
 
 ## Estatísticas
 <p>
@@ -45,7 +47,7 @@
 </p>
 
 ## Onde me encontrar
-- 📧 <a href="mailto:work.karinyalpiano@gmail.com">work.karinyalpiano@gmail.com</a>
+- 📧 <a href="mailto:karinyalpiano@gmail.com">karinyalpiano@gmail.com</a>
 - 💼 <a href="https://www.linkedin.com/in/kariny-alpiano-ab0b18146/">LinkedIn</a>
 
 ---
