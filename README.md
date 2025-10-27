@@ -5,13 +5,14 @@
 
 **Desenvolvedora · Python (Django) · React · Web**
 
-<a href="mailto:work.karinyalpiano@gmail.com" title="Email">
-  <img alt="Email" width="28" src="https://img.shields.io/badge/- -?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335">
-</a>
-<a href="https://www.linkedin.com/in/kariny-alpiano-ab0b18146/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kariny%20Alpiano-0A66C2?logo=linkedin&logoColor=white">
-</a>
-
+<div align="center">
+  <a href="mailto:work.karinyalpiano@gmail.com" title="Email">
+    <img alt="Email" width="28" src="https://cdn.simpleicons.org/gmail/EA4335" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kariny-alpiano-ab0b18146/" title="LinkedIn">
+    <img alt="LinkedIn" width="28" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+  </a>
 </div>
 
 ---
