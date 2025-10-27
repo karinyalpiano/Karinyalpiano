@@ -1,12 +1,11 @@
 <div align="center">
 
-# Oii, developers! Kariny aqui 👋
-
+# Oii, developers! Kariny aqui 👋  
 **Desenvolvedora · Python (Django) · React · Web**
 
-  <a href="mailto:work.karinyalpiano@gmail.com" title="Email">
-    <img alt="Email" width="28" src="https://cdn.simpleicons.org/gmail/EA4335" />
-  </a>
+<a href="mailto:work.karinyalpiano@gmail.com" title="Email">
+  <img alt="Email" width="28" src="https://cdn.simpleicons.org/gmail/EA4335" />
+</a>
 <a href="https://www.linkedin.com/in/kariny-alpiano-ab0b18146/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kariny%20Alpiano-0A66C2?logo=linkedin&logoColor=white">
 </a>
@@ -33,17 +32,17 @@
   <img alt="CSS3" title="CSS3" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </p>
 
-## Sobre mim
+## O que eu faço
 - 🚀 Entrego apps web completos, do backend ao frontend.
 - 🧱 Backend: Django + DRF (autenticação, CRUD, permissões, documentação).
 - ⚛️ Frontend: React (SPA, hooks, roteamento, consumo de API).
 - 🐍 Automação em Python: scripts, ETL leve e integrações.
 
 ## Estatísticas
-<p>
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Karinyalpiano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karinyalpiano&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=karinyalpiano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinyalpiano&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
 
 ## Onde me encontrar
 - 📧 <a href="mailto:karinyalpiano@gmail.com">karinyalpiano@gmail.com</a>
@@ -54,12 +53,7 @@
 <div align="center">Feito com ❤️ e café.</div>
 
 
-
 ![Snake animation](https://github.com/karinyalpiano/karinyalpiano/blob/output/snake.svg#gh-light-mode-only)
-
 ![Snake animation](https://github.com/karinyalpiano/karinyalpiano/blob/output/snake-dark.svg#gh-dark-mode-only)
 
 ![Snake animation](https://github.com/karinyalpiano/karinyalpiano/blob/output/snake.gif)
-
-https://github.com/karinyalpiano/karinyalpiano/blob/output/github-contribution-grid-snake.svg
-
