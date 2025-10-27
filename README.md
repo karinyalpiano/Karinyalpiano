@@ -3,14 +3,14 @@
 # Oii, developers! Kariny aqui 👋
 
 **Desenvolvedora · Python (Django) ·JavaScript · React**
-  <a href="mailto:karinyalpiano@gmail.com" title="Email">
-    <img alt="Email" width="28" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2709.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kariny-alpiano-ab0b18146/" title="LinkedIn">
-    <img alt="LinkedIn" width="28" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
-  </a>
-</div>
+
+<a href="mailto:work.karinyalpiano@gmail.com" title="Email">
+  <img alt="Email" width="28" src="https://cdn.simpleicons.org/gmail/EA4335" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kariny-alpiano-ab0b18146/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kariny%20Alpiano-0A66C2?logo=linkedin&logoColor=white">
+</a>
 
 ---
 
