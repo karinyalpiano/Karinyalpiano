@@ -7,7 +7,6 @@
 <a href="mailto:work.karinyalpiano@gmail.com" title="Email">
   <img alt="Email" width="28" src="https://cdn.simpleicons.org/gmail/EA4335" />
 </a>
-&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kariny-alpiano-ab0b18146/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kariny%20Alpiano-0A66C2?logo=linkedin&logoColor=white">
 </a>
