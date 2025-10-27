@@ -1,23 +1,30 @@
+<!-- README do perfil: Karinyalpiano/Karinyalpiano -->
+<div align="center">
+
 # Oii, developers! Kariny aqui 👋
 
-**Desenvolvedora em formação • Python • C++ • Web**
+**Desenvolvedora em formação · Python ·Django · JavaScript · React**
 
-[![Email](https://img.shields.io/badge/Email-work.karinyalpiano%40gmail.com-informational?logo=gmail)](mailto:work.karinyalpiano@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kariny%20Alpiano-blue?logo=linkedin)](https://www.linkedin.com/in/kariny-alpiano-ab0b18146/)
+<a href="mailto:work.karinyalpiano@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-work.karinyalpiano%40gmail.com-EA4335?logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/kariny-alpiano-ab0b18146/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kariny%20Alpiano-0A66C2?logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-<img align="right" width="260" alt="coding-time" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
+<img align="right" width="260" alt="coding gif" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
 
 ## Sobre mim
-- 🔭 **Atualmente:** construindo projetos de estudo e resolvendo desafios de lógica.
+- 🔭 **Agora:** estudando e construindo mini-projetos para praticar.
 - 🌱 **Aprendendo:** Python, C++ e JavaScript.
-- 💡 **Interesses:** desenvolvimento web, automação e ciência de dados (nível iniciante).
-- ☕ **Fun fact:** café me dá +10 de produtividade.
+- 💡 **Curiosidades:** gosto de automação e web responsiva.
+- ☕ **Café lover:** +10 de produtividade garantidos.
 
-## Tecnologias que uso/estudo
+## Tecnologias
 <p>
   <img alt="Python" title="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="C++" title="C++" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
@@ -31,21 +38,16 @@
 - 🕸️ **Mini projetos Web** — HTML/CSS/JS com responsividade.
 - 🐍 **Scripts em Python** — automações e notebooks simples.
 
-## Estatísticas do GitHub
+## Estatísticas
 <p>
   <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Karinyalpiano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karinyalpiano&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
-## Como me encontrar
-<p>
-  <a href="mailto:work.karinyalpiano@gmail.com">work.karinyalpiano@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/kariny-alpiano-ab0b18146/">LinkedIn</a>
-</p>
+## Onde me encontrar
+- 📧 <a href="mailto:work.karinyalpiano@gmail.com">work.karinyalpiano@gmail.com</a>
+- 💼 <a href="https://www.linkedin.com/in/kariny-alpiano-ab0b18146/">LinkedIn</a>
 
 ---
 
-<div align="center">
-Feito com ❤️ e café.
-</div>
-""").strip()
+<div align="center">Feito com ❤️ e café.</div>
