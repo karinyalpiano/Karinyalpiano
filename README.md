@@ -1,7 +1,7 @@
 <div align="center">
 
 # Oii, developers! Kariny aqui 👋  
-**Desenvolvedora · Python (Django) · React · Web**
+**Desenvolvedora · Python · Django · JavaScript · React**
 
 <a href="mailto:work.karinyalpiano@gmail.com" title="Email">
   <img alt="Email" width="28" src="https://cdn.simpleicons.org/gmail/EA4335" />
