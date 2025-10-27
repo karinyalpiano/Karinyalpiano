@@ -52,8 +52,3 @@
 
 <div align="center">Feito com ❤️ e café.</div>
 
-
-![Snake animation](https://github.com/karinyalpiano/karinyalpiano/blob/output/snake.svg#gh-light-mode-only)
-![Snake animation](https://github.com/karinyalpiano/karinyalpiano/blob/output/snake-dark.svg#gh-dark-mode-only)
-
-![Snake animation](https://github.com/karinyalpiano/karinyalpiano/blob/output/snake.gif)
